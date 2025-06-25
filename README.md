@@ -32,10 +32,17 @@ This project demonstrates how to:
   ---
 
 
+### 📌 Initial Commit
+
+🟢 **Initial Commit:**  
+Added **Go** and **Python** microservices with complete source code and Docker-based project structure for NGINX reverse proxy setup.
+
+
+
   ![1](https://github.com/user-attachments/assets/e5899b91-022f-456f-9c7e-6c2e117a2b10)
   ![2](https://github.com/user-attachments/assets/0c211b39-b1f7-494d-baf7-ddf16b97b715)
 
-
+  ---
 
 
 
