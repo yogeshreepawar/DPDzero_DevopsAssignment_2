@@ -2,6 +2,10 @@
 
 
 
+Initial commit: added Go and Python microservices with all source code and project structure for reverse proxy setup.
+
+
+
 
 
 
