@@ -61,8 +61,13 @@ Added **Go** and **Python** microservices with complete source code and Docker-b
 
 🟢 Terminal Output📌
 
+📡API Endpoint Test: /ping
+🔍 You visited http://localhost:8001/ping
 
 ![image](https://github.com/user-attachments/assets/40dcf6b1-2dc8-4354-acf4-dd5ce877aadb)
+
+📡 API Endpoint Test: /hello
+🔍 You visited http://localhost:8001/hello
 
 ![image](https://github.com/user-attachments/assets/ef6d2faa-dba5-445d-adcd-9802b6bf2252)
 
