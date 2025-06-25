@@ -72,6 +72,30 @@ Added **Go** and **Python** microservices with complete source code and Docker-b
 ![image](https://github.com/user-attachments/assets/ef6d2faa-dba5-445d-adcd-9802b6bf2252)
 
 
+---
+
+
+🐍 Service 2: Python Microservice Running (Flask)
+
+![image](https://github.com/user-attachments/assets/18865b89-d07d-47b7-b35e-6a1e54ae820c)
+
+🟢 Terminal Output📌
+
+📡 API Endpoint Test: /ping
+🔍 You accessed: http://localhost:8002/ping
+
+![image](https://github.com/user-attachments/assets/cd68ae53-f3b4-47c7-af51-2fbd26893075)
+
+📡 API Endpoint Test: /hello
+🔍 You visited http://localhost:8002/hello
+
+![image](https://github.com/user-attachments/assets/d476323e-c9d2-4c4b-afbd-295e5bbff7ec)
+
+
+
+
+
+
 
 
 
