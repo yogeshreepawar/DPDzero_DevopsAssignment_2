@@ -16,5 +16,19 @@
 > - `/service2` → Python (Port 5000)
 
 
+---
+
+## 📦 Project Overview
+
+This project demonstrates how to:
+
+- Use **Docker Compose** to orchestrate services
+- Run a **Go** and a **Python** backend in containers
+- Configure an **NGINX reverse proxy** to route based on URL paths
+- Enable **health checks** for production readiness
+- Log **incoming requests** for observability
+
+
+
 
 
