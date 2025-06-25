@@ -1,6 +1,10 @@
 🧩 DevOps Intern Assignment: Nginx Reverse Proxy + Docker
 
 
+
+
+
+
 ![1](https://github.com/user-attachments/assets/a6653032-cf85-444c-bf2b-198d766b12cc)
 ![2](https://github.com/user-attachments/assets/0be0a0e1-37cb-4f76-a4c8-ae8d12b6df7f)
 
