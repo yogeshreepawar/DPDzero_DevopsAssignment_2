@@ -1,58 +1,5 @@
-🧩 DevOps Intern Assignment: Nginx Reverse Proxy + Docker
 
 
 
-
-
-
-Initial commit: added Go and Python microservices with all source code and project structure for reverse proxy setup.
-
-
-
-
-
-
-![1](https://github.com/user-attachments/assets/a6653032-cf85-444c-bf2b-198d766b12cc)
-![2](https://github.com/user-attachments/assets/0be0a0e1-37cb-4f76-a4c8-ae8d12b6df7f)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The image shows that you're running the Go (Golang) service using the following command inside the service_1 folder:
-
-
-
-
-
-![3](https://github.com/user-attachments/assets/42f08aa7-1962-47ca-a132-e5156241a662)
-![4](https://github.com/user-attachments/assets/e5f9d53f-b0cc-457f-9260-f8d9fab53ace)
-![5](https://github.com/user-attachments/assets/ad09647d-594b-4f01-b8df-02224a8aae9c)
-
-
-
-
-
-![6](https://github.com/user-attachments/assets/c96ea36b-a1e7-4003-a7bc-815635cf1063)
-![7](https://github.com/user-attachments/assets/fdf6b3da-2e96-43cd-bc8b-ebf4897ca664)
-![8](https://github.com/user-attachments/assets/c09442ef-ddc0-4b6b-aa29-1c4723468b29)
-
-
-
-
-![image](https://github.com/user-attachments/assets/e4c8cdfe-5add-4b6a-8561-4b1daafa0848)
 
 
