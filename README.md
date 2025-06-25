@@ -29,6 +29,31 @@ This project demonstrates how to:
 - Log **incoming requests** for observability
 
 
+  ---
+
+
+## 📁 Folder Structure
+
+.
+├── README.md
+├── __MACOSX
+│   ├── service_1
+│   └── service_2
+├── docker-compose.yml
+├── nginx
+│   ├── dockerfile
+│   └── nginx.conf
+├── service_1
+│   ├── README.md
+│   ├── dockerfile
+│   └── main.go
+└── service_2
+    ├── README.md
+    ├── app.py
+    ├── dockerfile
+    ├── pyproject.toml
+    └── uv.lock
+
 
 
 
