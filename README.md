@@ -35,5 +35,6 @@ This project demonstrates how to:
 ## 📁 Folder Structure
 
 
-![image](https://github.com/user-attachments/assets/c3ac33ea-4a77-45f2-9598-735f19737ce2)
+![image](https://github.com/user-attachments/assets/b6aef7b0-b7e0-4dd3-8cd8-be2a81fd7b28)
+
 
