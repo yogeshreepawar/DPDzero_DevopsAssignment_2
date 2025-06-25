@@ -1,10 +1,11 @@
+
 version: "3.8"
 
 services:
   nginx:
     build: ./nginx
-    ports:
-      - "8081:80"  
+    piorts:
+      - "8082:80"
     depends_on:
       - service_1
       - service_2
@@ -25,13 +26,9 @@ services:
     build: ./service_2
     networks:
       - app-network
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:8002/hello"]
-      interval: 30s
-      timeout: 5s
-      retries: 3
 
 networks:
   app-network:
     driver: bridge
+
 
