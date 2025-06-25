@@ -60,8 +60,15 @@ Added **Go** and **Python** microservices with complete source code and Docker-b
 ![image](https://github.com/user-attachments/assets/af644c4f-40d2-4c29-b014-8f78176f2f83)
 
 🟢 Terminal Output📌
-![image](https://github.com/user-attachments/assets/a8ea4e79-4429-4110-9bb1-fb972ae005e3)
-![image](https://github.com/user-attachments/assets/551b84c8-9aaa-4196-937d-c0597ad45cfd)
+
+
+![image](https://github.com/user-attachments/assets/40dcf6b1-2dc8-4354-acf4-dd5ce877aadb)
+
+![image](https://github.com/user-attachments/assets/ef6d2faa-dba5-445d-adcd-9802b6bf2252)
+
+
+
+
 
 
 
