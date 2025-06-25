@@ -16,6 +16,13 @@ Initial commit: added Go and Python microservices with all source code and proje
 
 
 
+
+The image shows that you're running the Go (Golang) service using the following command inside the service_1 folder:
+
+
+
+
+
 ![3](https://github.com/user-attachments/assets/42f08aa7-1962-47ca-a132-e5156241a662)
 ![4](https://github.com/user-attachments/assets/e5f9d53f-b0cc-457f-9260-f8d9fab53ace)
 ![5](https://github.com/user-attachments/assets/ad09647d-594b-4f01-b8df-02224a8aae9c)
