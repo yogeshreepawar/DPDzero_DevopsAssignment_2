@@ -29,7 +29,7 @@ This project demonstrates how to:
 - Log **incoming requests** for observability
 
 
-  ---
+---
 
 
 ### 📌 Initial Commit
@@ -42,7 +42,7 @@ Added **Go** and **Python** microservices with complete source code and Docker-b
   ![1](https://github.com/user-attachments/assets/e5899b91-022f-456f-9c7e-6c2e117a2b10)
   ![2](https://github.com/user-attachments/assets/0c211b39-b1f7-494d-baf7-ddf16b97b715)
 
-  ---
+---
 
 
 
@@ -50,5 +50,19 @@ Added **Go** and **Python** microservices with complete source code and Docker-b
 
 
 ![image](https://github.com/user-attachments/assets/b6aef7b0-b7e0-4dd3-8cd8-be2a81fd7b28)
+
+
+---
+
+
+📌 Service 1: Golang Microservice Running 
+
+![image](https://github.com/user-attachments/assets/af644c4f-40d2-4c29-b014-8f78176f2f83)
+
+🟢 Terminal Output📌
+![image](https://github.com/user-attachments/assets/a8ea4e79-4429-4110-9bb1-fb972ae005e3)
+![image](https://github.com/user-attachments/assets/551b84c8-9aaa-4196-937d-c0597ad45cfd)
+
+
 
 
