@@ -34,26 +34,7 @@ This project demonstrates how to:
 
 ## 📁 Folder Structure
 
-.
-├── README.md
-├── __MACOSX
-│   ├── service_1
-│   └── service_2
-├── docker-compose.yml
-├── nginx
-│   ├── dockerfile
-│   └── nginx.conf
-├── service_1
-│   ├── README.md
-│   ├── dockerfile
-│   └── main.go
-└── service_2
-    ├── README.md
-    ├── app.py
-    ├── dockerfile
-    ├── pyproject.toml
-    └── uv.lock
 
 
-
+![image](https://github.com/user-attachments/assets/c3ac33ea-4a77-45f2-9598-735f19737ce2)
 
