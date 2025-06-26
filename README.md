@@ -1,4 +1,3 @@
-![17](https://github.com/user-attachments/assets/f6875b04-31d4-48d5-8358-67ea2349f932)
 <h1 align="center">🚀 <strong style="font-size:36px;">NGINX Reverse Proxy Microservices</strong> 🐳</h1>
 <p align="center"><strong>Docker Compose + Golang + Python + NGINX</strong></p>
 <p align="center">🔁 Path-based routing with a single port access | 💡 Clean containerized setup | ✅ Health Checks & Logs</p>
