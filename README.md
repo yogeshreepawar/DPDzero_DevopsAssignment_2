@@ -101,9 +101,15 @@ The following containers are launched by this project:
 ![Screenshot 2025-06-26 133610](https://github.com/user-attachments/assets/9028e608-a115-4d45-8f22-c07e91d75abf)
 
 
+📍 After services are up, you can access:
 
+Prometheus: http://localhost:9090
 
+Grafana: http://localhost:3000
 
+Cadvisor:http://localhost:8085
+
+---
 
 
 
