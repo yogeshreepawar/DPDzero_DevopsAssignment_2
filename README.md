@@ -57,6 +57,8 @@ Added **Go** and **Python** microservices with complete source code and Docker-b
 
 ## 🐳 Running Docker Containers
 
+ ⚠️ Note: Nginx is mapped to port **8081** instead of **8080** because port 8080 is already used by Jenkins on this system.
+
 The following containers are launched by this project:
 
 ![15](https://github.com/user-attachments/assets/ed23aa52-b6da-40c8-840d-69a54b8ac613)
