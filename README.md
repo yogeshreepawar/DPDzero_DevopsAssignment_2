@@ -1,4 +1,4 @@
-
+![17](https://github.com/user-attachments/assets/f6875b04-31d4-48d5-8358-67ea2349f932)
 <h1 align="center">🚀 <strong style="font-size:36px;">NGINX Reverse Proxy Microservices</strong> 🐳</h1>
 <p align="center"><strong>Docker Compose + Golang + Python + NGINX</strong></p>
 <p align="center">🔁 Path-based routing with a single port access | 💡 Clean containerized setup | ✅ Health Checks & Logs</p>
@@ -96,7 +96,10 @@ http://localhost:8081
 
 ---
 
-📦 Monitoring Stack Containers
+
+## 📈 Monitoring Setup (Prometheus + Grafana + cAdvisor)
+
+This project uses **Prometheus**, **Grafana**, and **cAdvisor** to monitor containers and visualize metrics.
 
 The following containers are launched by this project:
 
@@ -107,9 +110,22 @@ The following containers are launched by this project:
 
 Prometheus: http://localhost:9090
 
+![20](https://github.com/user-attachments/assets/2e0da84c-f1ce-441b-bd86-29dd8e271627)
+
+---
+
 Grafana: http://localhost:3000
 
+
+![17](https://github.com/user-attachments/assets/f6875b04-31d4-48d5-8358-67ea2349f932)
+
+---
+
+
 Cadvisor:http://localhost:8085
+
+![21](https://github.com/user-attachments/assets/4b78964a-208c-413e-82ba-0cf6f50a514c)
+
 
 ---
 
