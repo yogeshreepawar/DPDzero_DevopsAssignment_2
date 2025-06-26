@@ -62,7 +62,7 @@ This project uses Docker Compose to build and run the Python and Go backend serv
 
 To build and run the services, execute:
 
-docker-compose up --build
+<h1> docker-compose up --build </h1>
 
 ![10](https://github.com/user-attachments/assets/4a5d0a81-7050-4546-854b-0ebebca3702c)
 
