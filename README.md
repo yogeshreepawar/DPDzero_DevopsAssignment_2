@@ -49,7 +49,8 @@ Added **Go** and **Python** microservices with complete source code and Docker-b
 ## 📁 Folder Structure
 
 
-![image](https://github.com/user-attachments/assets/b6aef7b0-b7e0-4dd3-8cd8-be2a81fd7b28)
+![14](https://github.com/user-attachments/assets/57df81fc-76b2-4b7a-820e-12a89098392b)
+
 
 
 ---
