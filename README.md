@@ -55,42 +55,48 @@ Added **Go** and **Python** microservices with complete source code and Docker-b
 
 ---
 
+## 🐳 Running Docker Containers
+
+The following containers are launched by this project:
+
+![15](https://github.com/user-attachments/assets/ed23aa52-b6da-40c8-840d-69a54b8ac613)
 
 📌 Service 1: Golang Microservice Running 
-
-![image](https://github.com/user-attachments/assets/af644c4f-40d2-4c29-b014-8f78176f2f83)
 
 🟢 Terminal Output📌
 
 📡API Endpoint Test: /ping
-🔍 You visited http://localhost:8001/ping
+🔍 You visited http://localhost:8081/ping
 
-![image](https://github.com/user-attachments/assets/40dcf6b1-2dc8-4354-acf4-dd5ce877aadb)
-
-📡 API Endpoint Test: /hello
-🔍 You visited http://localhost:8001/hello
-
-![image](https://github.com/user-attachments/assets/ef6d2faa-dba5-445d-adcd-9802b6bf2252)
-
+![11](https://github.com/user-attachments/assets/37777336-b60a-47c6-a035-c779905997ba)
 
 ---
 
 
 🐍 Service 2: Python Microservice Running (Flask)
 
-![image](https://github.com/user-attachments/assets/18865b89-d07d-47b7-b35e-6a1e54ae820c)
-
 🟢 Terminal Output📌
 
 📡 API Endpoint Test: /ping
-🔍 You accessed: http://localhost:8002/ping
+🔍 You accessed: http://localhost:8081/ping
 
-![image](https://github.com/user-attachments/assets/cd68ae53-f3b4-47c7-af51-2fbd26893075)
+![12](https://github.com/user-attachments/assets/1e2bd778-46f3-4377-8ea1-fd4b3fb86b5b)
 
-📡 API Endpoint Test: /hello
-🔍 You visited http://localhost:8002/hello
+---
 
-![image](https://github.com/user-attachments/assets/d476323e-c9d2-4c4b-afbd-295e5bbff7ec)
+## 🌐 Nginx Reverse Proxy Verification
+
+After starting all services using Docker Compose, you can verify the Nginx reverse proxy by visiting:
+http://<your-public-ip>:8081
+
+![13](https://github.com/user-attachments/assets/1e69ff26-31ec-4415-bd23-26a54f385c2e)
+
+
+---
+
+
+
+
 
 
 
