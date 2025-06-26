@@ -87,7 +87,7 @@ The following containers are launched by this project:
 ## 🌐 Nginx Reverse Proxy Verification
 
 After starting all services using Docker Compose, you can verify the Nginx reverse proxy by visiting:
-http://<your-public-ip>:8081
+http://localhost:8081
 
 ![13](https://github.com/user-attachments/assets/1e69ff26-31ec-4415-bd23-26a54f385c2e)
 
