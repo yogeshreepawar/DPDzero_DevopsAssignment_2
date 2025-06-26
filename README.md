@@ -129,6 +129,18 @@ Cadvisor:http://localhost:8085
 ---
 
 
+✅ Project successfully integrates Nginx reverse proxy, containerized Python and Go services, and a complete monitoring stack using Prometheus, Grafana, and cAdvisor.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
