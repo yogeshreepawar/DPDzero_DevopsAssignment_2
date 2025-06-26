@@ -56,6 +56,17 @@ Added **Go** and **Python** microservices with complete source code and Docker-b
 
 ## 🐳 Running Docker Containers
 
+🛠️ Building and Running the Services
+
+This project uses Docker Compose to build and run the Python and Go backend services along with Nginx for reverse proxy.
+
+To build and run the services, execute:
+
+docker-compose up --build
+
+![10](https://github.com/user-attachments/assets/4a5d0a81-7050-4546-854b-0ebebca3702c)
+
+
  ⚠️ Note: Nginx is mapped to port **8081** instead of **8080** because port 8080 is already used by Jenkins on this system.
 
 The following containers are launched by this project:
